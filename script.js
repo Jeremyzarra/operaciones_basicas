@@ -15,6 +15,7 @@ const api = (x,y) =>{
     return x/y
 }
 
+const prueba= 25+2;
 
 const prueba2= 25+2;
 
