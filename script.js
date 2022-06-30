@@ -14,6 +14,10 @@ const dividir = (x,y) =>{
 const api = (x,y) =>{
     return x/y
 }
+
+
+const prueba2= 25+2;
+
 const api2 = (x,y) =>{
     return x/y
 }
