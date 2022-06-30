@@ -10,3 +10,9 @@ const restar= (a,b)=>{
 const prueba = ()=>{
     return "Esto es una prueba";
 }
+const prueba1 = ()=>{
+    return "Esto es una prueba";
+}
+const prueba2 = ()=>{
+    return "Esto es una prueba";
+}
