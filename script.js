@@ -10,6 +10,7 @@ const multiplicar = (x,y) =>{
 const dividir = (x,y) =>{
     return x/y
 }
+
 const api = (x,y) =>{
     return x/y
 }
